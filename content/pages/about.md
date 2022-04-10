@@ -1,5 +1,5 @@
 ---
-title: 'About me'
+title: 'Ronin'
 menu:
   main:
     name: "AboutMe"
@@ -7,15 +7,12 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola !
+Me da gusto que hayas llegado aqui ,soy un viajero sin rumbo claro buscando aventuras en este mundo.
+Me encantaria que puedas seguirme en mi viaje.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+>Lvl 29 🐲
+>Gadgets ❤️
+>Dibujar y escribir 😊 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Me encanta escuchar musica y pasar tiempo con mis amigos ,los dragones son lo mas !!!
